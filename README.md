@@ -5,8 +5,7 @@
     <!--![](https://count.getloli.com/get/@:cpython666?theme=rule34)-->
 </h3>
 
-👋 Welcome! You are my visitor count:
-![Visitor Count](https://profile-counter.glitch.me/cpython666/count.svg)
+Welcome, You are my visitor — Thank You for stopping by! 🚀
 🎉🎉
 
 ![](https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)

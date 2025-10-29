@@ -1,16 +1,15 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm Wx~
+  Hi, I'm 跨境极客彬  
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
     <!--![](https://count.getloli.com/get/@:cpython666?theme=rule34)-->
 </h3>
 
-
-  Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/cpython666/count.svg)]() visitor, Thank You!🎉🎉
+👋 Welcome! You are my visitor count:
+![Visitor Count](https://profile-counter.glitch.me/cpython666/count.svg)
+🎉🎉
 
 ![](https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)
-
-# 👋 Hi, I'm 跨境极客彬  
 
 🚀 跨境启航，让我们领略商品的购买意义  
 

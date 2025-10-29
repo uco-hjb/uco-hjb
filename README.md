@@ -1,6 +1,6 @@
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi, I'm 跨境极客彬  
+  Hi, I'm 极客Bin 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
     <!--![](https://count.getloli.com/get/@:cpython666?theme=rule34)-->
 </h3>
@@ -51,8 +51,6 @@ Welcome, You are my visitor — Thank You for stopping by! 🚀
 
 ### 💬 Motto  
 > “跨境不是搬运，而是文化与需求的桥梁。”  
-> — 跨境极客彬  
-
 ---
 
 ✨ *持续更新中… 链接敬请期待*  
